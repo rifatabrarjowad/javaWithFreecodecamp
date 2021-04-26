@@ -8,6 +8,6 @@ public class EscapeSequence {
 //            \'	Inserts a single quote character in the text at this point.
 //            \"	Inserts a double quote character in the text at this point.
 //            \\	Inserts a backslash character in the text at this point.
-        System.out.println("my name is Rifat \n I am from Natore ");
+        System.out.println("my name is Rifat \n I am from \t Natore ");
     }
 }
