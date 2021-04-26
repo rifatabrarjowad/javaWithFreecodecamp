@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="03a26674-2a63-4bff-8b9a-61cfb9a5ec1b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaWithFreecodecamp/EscapeSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaWithFreecodecamp/EscapeSequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EscapeSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EscapeSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaWithFreecodecamp/DataType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaWithFreecodecamp/DataType.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +37,12 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.DataType">
+  <component name="RunManager" selected="Application.InputRec">
     <configuration name="Comment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Comment" />
       <module name="javaWithFreecodecamp" />
@@ -59,6 +59,13 @@
     </configuration>
     <configuration name="EscapeSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EscapeSequence" />
+      <module name="javaWithFreecodecamp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InputRec" />
       <module name="javaWithFreecodecamp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InputRec" />
         <item itemvalue="Application.DataType" />
         <item itemvalue="Application.Comment" />
         <item itemvalue="Application.EscapeSequence" />
@@ -104,7 +112,7 @@
       <workItem from="1619287299539" duration="2519000" />
       <workItem from="1619349814165" duration="592000" />
       <workItem from="1619366488773" duration="1506000" />
-      <workItem from="1619466348712" duration="2722000" />
+      <workItem from="1619466348712" duration="5438000" />
     </task>
     <servers />
   </component>
